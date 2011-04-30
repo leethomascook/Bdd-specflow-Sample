@@ -23,6 +23,8 @@ C:\Projects\Bdd-specflow-Sample\KarmaMeter.DataAccess.Test\bin\Debug\Castle.Core
 C:\Projects\Bdd-specflow-Sample\KarmaMeter.DataAccess.Test\bin\Debug\FluentNHibernate.pdb
 C:\Projects\Bdd-specflow-Sample\KarmaMeter.DataAccess.Test\bin\Debug\Iesi.Collections.pdb
 C:\Projects\Bdd-specflow-Sample\KarmaMeter.DataAccess.Test\bin\Debug\NHibernate.ByteCode.Castle.xml
-C:\Projects\Bdd-specflow-Sample\KarmaMeter.DataAccess.Test\bin\Debug\NHibernate.Linq.dll
-C:\Projects\Bdd-specflow-Sample\KarmaMeter.DataAccess.Test\bin\Debug\NHibernate.Linq.xml
 C:\Projects\Bdd-specflow-Sample\KarmaMeter.DataAccess.Test\bin\Debug\System.Data.SQLite.DLL
+C:\Projects\Bdd-specflow-Sample\KarmaMeter.DataAccess.Test\bin\Debug\KarmaMeter.DataAccess.Test.dll.config
+C:\Projects\Bdd-specflow-Sample\KarmaMeter.DataAccess.Test\bin\Debug\Antlr3.Runtime.dll
+C:\Projects\Bdd-specflow-Sample\KarmaMeter.DataAccess.Test\bin\Debug\Castle.DynamicProxy2.dll
+C:\Projects\Bdd-specflow-Sample\KarmaMeter.DataAccess.Test\bin\Debug\log4net.dll

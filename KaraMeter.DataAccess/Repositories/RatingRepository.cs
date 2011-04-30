@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using KarmaMetee.Business.Contracts;
 using NHibernate;
-using NHibernate.Linq;
+
 using KarmaMetee.Business.Domain;
 
 namespace KarmaMeter.DataAccess.Repositories
@@ -21,9 +21,11 @@ namespace KarmaMeter.DataAccess.Repositories
         {
         }
 
-        public bool HasStoryBeenRatedByUserAlready(string username)
+        public bool HasStoryBeenRatedByUserAlready(Guid userid)
         {
-            return Session.Linq<Rating>().Where(s => s.User.Username == username).Count() > 0;
+            int count = Session.QueryOver<Rating>().Where(s => s.UserId == userid).RowCount();
+
+            return  count > 0;
         }
     }
 }

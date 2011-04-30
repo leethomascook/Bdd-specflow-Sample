@@ -7,6 +7,6 @@ namespace KarmaMetee.Business.Contracts
 {
     public interface IRatingRepository
     {
-        bool HasStoryBeenRatedByUserAlready(string username);
+        bool HasStoryBeenRatedByUserAlready(Guid userId);
     }
 }

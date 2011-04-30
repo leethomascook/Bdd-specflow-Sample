@@ -18,7 +18,7 @@ namespace KarmaMeter.DataAccess.Test
         {
             string username = "leecook";
             IRatingRepository ratingRepository = new RatingRepository(Session);
-            bool result = ratingRepository.HasStoryBeenRatedByUserAlready(username);
+            bool result = ratingRepository.HasStoryBeenRatedByUserAlready(Guid.Empty);
             Assert.IsTrue(result);
         }
     }
