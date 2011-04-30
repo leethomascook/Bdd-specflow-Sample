@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using KarmaMetee.Business.Domain;
+using KarmaMeter.Business.Domain;
 using FluentNHibernate.Mapping;
 
 namespace KaraMeter.DataAccess.Maps

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace KarmaMetee.Business.Domain
+namespace KarmaMeter.Business.Domain
 {
     public class Rating
     {

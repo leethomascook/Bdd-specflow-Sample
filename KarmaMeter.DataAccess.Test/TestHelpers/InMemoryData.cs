@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using KarmaMeter.Business.Domain;
 
 namespace KarmaMeter.DataAccess.Test.TestHelpers
 {
@@ -9,18 +10,16 @@ namespace KarmaMeter.DataAccess.Test.TestHelpers
     {
         protected InMemoryData()
         {
-           // Account AccountOne = new Account(1, "AC001");
-           // Account AccountTwo = new Account(2, "AC002");
+            User user1 = new User() { Username = "leecook" };
+            User user2 = new User(){ Username = "hazelgray"};
 
-          //  Session.Save(AccountOne);
-          //  Session.Save(AccountTwo);
+            Session.Save(user1);
+            Session.Save(user2);
 
             Session.Flush();
 
-          ///  Session.Save(new Person(1, "Dan", "Watson", AccountOne));
-          //  Session.Save(new Person(1, "James", "May", AccountTwo));
-          ///  Session.Save(new Person(1, "Andrew", "Plum", AccountOne));
-
+           Rating rating1 = new Rating(){ UserId = user1.Id, TimeRated = DateTime.Now, SubmittedRating = 1 };
+            Session.Save(rating1);
             Session.Flush();
         }
     }

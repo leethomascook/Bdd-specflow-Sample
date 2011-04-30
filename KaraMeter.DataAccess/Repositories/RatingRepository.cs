@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using KarmaMetee.Business.Contracts;
+using KarmaMeter.Business.Contracts;
 using NHibernate;
 
-using KarmaMetee.Business.Domain;
+using KarmaMeter.Business.Domain;
 
 namespace KarmaMeter.DataAccess.Repositories
 {
@@ -25,7 +25,7 @@ namespace KarmaMeter.DataAccess.Repositories
         {
             int count = Session.QueryOver<Rating>().Where(s => s.UserId == userid).RowCount();
 
-            return  count > 0;
+            return  count >= 1;
         }
     }
 }

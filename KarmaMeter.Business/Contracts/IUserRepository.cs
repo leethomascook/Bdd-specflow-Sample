@@ -2,11 +2,12 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using KarmaMeter.Business.Domain;
 
 namespace KarmaMeter.Business.Contracts
 {
-    public interface IRatingRepository
+    public interface IUserRepository
     {
-        bool HasStoryBeenRatedByUserAlready(Guid userId);
+        User GetUser(string username);
     }
 }
