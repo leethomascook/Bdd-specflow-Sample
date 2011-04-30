@@ -1,7 +1,7 @@
-﻿Feature: Addition
-	In order to avoid silly mistakes
-	As a math idiot
-	I want to be told the sum of two numbers
+﻿Feature: RateKarma
+	In order Rate some ones karma
+	As a user
+	I want to view the details of an instance of karma
 
 @mytag
 Scenario: Add two numbers

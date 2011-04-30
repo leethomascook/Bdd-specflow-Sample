@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bdd-specflow-Sample.Web", "Bdd-specflow-Sample.Web\Bdd-specflow-Sample.Web.csproj", "{3E800ECB-AD6F-43DD-80FF-DFEF558EFA8A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IntegrationTests", "IntegrationTests", "{BA47E58A-0CB1-42FF-8F00-9796245A35DF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{0FB58176-8441-490E-859B-9760C720BF4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bdd-specflow-Sample.Features", "Bdd-specflow-Sample.Features\Bdd-specflow-Sample.Features.csproj", "{3770CD8C-555E-4460-96B4-140F012121DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,8 +19,15 @@ Global
 		{3E800ECB-AD6F-43DD-80FF-DFEF558EFA8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E800ECB-AD6F-43DD-80FF-DFEF558EFA8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E800ECB-AD6F-43DD-80FF-DFEF558EFA8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3770CD8C-555E-4460-96B4-140F012121DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3770CD8C-555E-4460-96B4-140F012121DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3770CD8C-555E-4460-96B4-140F012121DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3770CD8C-555E-4460-96B4-140F012121DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3770CD8C-555E-4460-96B4-140F012121DA} = {BA47E58A-0CB1-42FF-8F00-9796245A35DF}
 	EndGlobalSection
 EndGlobal

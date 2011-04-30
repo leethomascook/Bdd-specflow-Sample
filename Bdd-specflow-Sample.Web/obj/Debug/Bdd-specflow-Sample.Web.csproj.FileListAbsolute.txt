@@ -1,0 +1,6 @@
+C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Web\bin\Bdd-specflow-Sample.Web.dll
+C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Web\bin\Bdd-specflow-Sample.Web.pdb
+C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Web\bin\TechTalk.SpecFlow.dll
+C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Web\obj\Debug\Bdd-specflow-Sample.Web.dll
+C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Web\obj\Debug\Bdd-specflow-Sample.Web.pdb

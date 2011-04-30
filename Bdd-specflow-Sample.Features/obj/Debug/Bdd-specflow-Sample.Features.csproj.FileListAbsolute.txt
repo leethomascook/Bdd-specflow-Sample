@@ -1,0 +1,11 @@
+C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Features\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Features\bin\Debug\Bdd-specflow-Sample.Features.dll.config
+C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Features\bin\Debug\Bdd-specflow-Sample.Features.dll
+C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Features\bin\Debug\Bdd-specflow-Sample.Features.pdb
+C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Features\bin\Debug\nunit.framework.dll
+C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Features\bin\Debug\nunit.mocks.dll
+C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Features\bin\Debug\pnunit.framework.dll
+C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Features\bin\Debug\TechTalk.SpecFlow.dll
+C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Features\bin\Debug\nunit.framework.xml
+C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Features\obj\Debug\Bdd-specflow-Sample.Features.dll
+C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Features\obj\Debug\Bdd-specflow-Sample.Features.pdb
