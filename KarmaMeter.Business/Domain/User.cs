@@ -7,5 +7,7 @@ namespace KarmaMetee.Business.Domain
 {
     public class User
     {
+        public virtual Guid Id { get; set; }
+        public virtual string Username { get; set; }
     }
 }

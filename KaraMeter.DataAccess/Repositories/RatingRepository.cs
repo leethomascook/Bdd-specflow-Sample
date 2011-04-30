@@ -21,15 +21,9 @@ namespace KarmaMeter.DataAccess.Repositories
         {
         }
 
-        public IQueryable<Rating> SelectAllAccounts()
-        {
-            return null;
-            //return Session.Linq<Rating>().Where(s => s.;
-        }
-
         public bool HasStoryBeenRatedByUserAlready(string username)
         {
-            throw new NotImplementedException();
+            return Session.Linq<Rating>().Where(s => s.User.Username == username).Count() > 0;
         }
     }
 }
