@@ -18,7 +18,7 @@ namespace Bdd_specflow_Sample.Features
     [System.CodeDom.Compiler.GeneratedCodeAttribute("TechTalk.SpecFlow", "1.6.1.0")]
     [System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     [NUnit.Framework.TestFixtureAttribute()]
-    [NUnit.Framework.DescriptionAttribute("RateKarma")]
+    [NUnit.Framework.DescriptionAttribute("Rate Karma")]
     public partial class RateKarmaFeature
     {
         
@@ -31,8 +31,8 @@ namespace Bdd_specflow_Sample.Features
         public virtual void FeatureSetup()
         {
             testRunner = TechTalk.SpecFlow.TestRunnerManager.GetTestRunner();
-            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "RateKarma", "In order Rate some ones karma\r\nAs a user\r\nI want to view the details of an instan" +
-                    "ce of karma", GenerationTargetLanguage.CSharp, ((string[])(null)));
+            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Rate Karma", "In order Rate some ones karma\r\nAs a user\r\nI want to let them know if they have be" +
+                    "en good or bad", GenerationTargetLanguage.CSharp, ((string[])(null)));
             testRunner.OnFeatureStart(featureInfo);
         }
         
@@ -55,22 +55,20 @@ namespace Bdd_specflow_Sample.Features
         }
         
         [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("Add two numbers")]
-        [NUnit.Framework.CategoryAttribute("mytag")]
-        public virtual void AddTwoNumbers()
+        [NUnit.Framework.DescriptionAttribute("Rate the karma of someones action")]
+        public virtual void RateTheKarmaOfSomeonesAction()
         {
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Add two numbers", new string[] {
-                        "mytag"});
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Rate the karma of someones action", ((string[])(null)));
 #line 7
 this.ScenarioSetup(scenarioInfo);
 #line 8
- testRunner.Given("I have entered 50 into the calculator");
+ testRunner.Given("I have requested to rate someone");
 #line 9
- testRunner.And("I have entered 70 into the calculator");
+ testRunner.And("They have not been rated by me before");
 #line 10
- testRunner.When("I press add");
+ testRunner.When("I submit a rating");
 #line 11
- testRunner.Then("the result should be 120 on the screen");
+ testRunner.Then("the result should be stored in the database");
 #line hidden
             testRunner.CollectScenarioErrors();
         }
