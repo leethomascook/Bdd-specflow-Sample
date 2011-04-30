@@ -4,3 +4,12 @@ C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Web\bin\TechTalk.SpecFlow.dl
 C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Web\obj\Debug\ResolveAssemblyReference.cache
 C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Web\obj\Debug\Bdd-specflow-Sample.Web.dll
 C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Web\obj\Debug\Bdd-specflow-Sample.Web.pdb
+C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Web\bin\Castle.Core.dll
+C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Web\bin\FluentNHibernate.dll
+C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Web\bin\Iesi.Collections.dll
+C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Web\bin\NHibernate.ByteCode.Castle.dll
+C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Web\bin\NHibernate.dll
+C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Web\bin\Castle.Core.xml
+C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Web\bin\FluentNHibernate.pdb
+C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Web\bin\Iesi.Collections.pdb
+C:\Projects\Bdd-specflow-Sample\Bdd-specflow-Sample.Web\bin\NHibernate.ByteCode.Castle.xml

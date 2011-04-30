@@ -5,7 +5,6 @@
 
 
 Scenario: Rate the karma of someones action
-	Given I have requested to rate someone
-	And They have not been rated by me before
+	Given They have not been rated by me before
 	When I submit a rating
 	Then the result should be stored in the database

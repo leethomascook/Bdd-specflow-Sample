@@ -1,0 +1,12 @@
+C:\Projects\Bdd-specflow-Sample\KarmaMeter.Business.Test\bin\Debug\KarmaMeter.Business.Test.dll
+C:\Projects\Bdd-specflow-Sample\KarmaMeter.Business.Test\bin\Debug\KarmaMeter.Business.Test.pdb
+C:\Projects\Bdd-specflow-Sample\KarmaMeter.Business.Test\bin\Debug\Moq.dll
+C:\Projects\Bdd-specflow-Sample\KarmaMeter.Business.Test\bin\Debug\nunit.framework.dll
+C:\Projects\Bdd-specflow-Sample\KarmaMeter.Business.Test\bin\Debug\nunit.mocks.dll
+C:\Projects\Bdd-specflow-Sample\KarmaMeter.Business.Test\bin\Debug\pnunit.framework.dll
+C:\Projects\Bdd-specflow-Sample\KarmaMeter.Business.Test\bin\Debug\Moq.pdb
+C:\Projects\Bdd-specflow-Sample\KarmaMeter.Business.Test\bin\Debug\Moq.xml
+C:\Projects\Bdd-specflow-Sample\KarmaMeter.Business.Test\bin\Debug\nunit.framework.xml
+C:\Projects\Bdd-specflow-Sample\KarmaMeter.Business.Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Bdd-specflow-Sample\KarmaMeter.Business.Test\obj\Debug\KarmaMeter.Business.Test.dll
+C:\Projects\Bdd-specflow-Sample\KarmaMeter.Business.Test\obj\Debug\KarmaMeter.Business.Test.pdb

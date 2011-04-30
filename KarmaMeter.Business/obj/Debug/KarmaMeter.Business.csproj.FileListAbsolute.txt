@@ -1,0 +1,5 @@
+C:\Projects\Bdd-specflow-Sample\KarmaMeter.Business\bin\Debug\KarmaMetee.Business.dll
+C:\Projects\Bdd-specflow-Sample\KarmaMeter.Business\bin\Debug\KarmaMetee.Business.pdb
+C:\Projects\Bdd-specflow-Sample\KarmaMeter.Business\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Bdd-specflow-Sample\KarmaMeter.Business\obj\Debug\KarmaMetee.Business.dll
+C:\Projects\Bdd-specflow-Sample\KarmaMeter.Business\obj\Debug\KarmaMetee.Business.pdb

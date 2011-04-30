@@ -1,0 +1,5 @@
+C:\Projects\Bdd-specflow-Sample\KamaMeter.Container\bin\Debug\KamaMeter.Container.dll
+C:\Projects\Bdd-specflow-Sample\KamaMeter.Container\bin\Debug\KamaMeter.Container.pdb
+C:\Projects\Bdd-specflow-Sample\KamaMeter.Container\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Bdd-specflow-Sample\KamaMeter.Container\obj\Debug\KamaMeter.Container.dll
+C:\Projects\Bdd-specflow-Sample\KamaMeter.Container\obj\Debug\KamaMeter.Container.pdb

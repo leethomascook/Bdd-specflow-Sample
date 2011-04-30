@@ -62,12 +62,10 @@ namespace Bdd_specflow_Sample.Features
 #line 7
 this.ScenarioSetup(scenarioInfo);
 #line 8
- testRunner.Given("I have requested to rate someone");
+ testRunner.Given("They have not been rated by me before");
 #line 9
- testRunner.And("They have not been rated by me before");
-#line 10
  testRunner.When("I submit a rating");
-#line 11
+#line 10
  testRunner.Then("the result should be stored in the database");
 #line hidden
             testRunner.CollectScenarioErrors();
