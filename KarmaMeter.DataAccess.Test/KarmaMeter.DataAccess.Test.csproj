@@ -93,6 +93,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Bdd-specflow-Sample.Web\Bdd-specflow-Sample.Web.csproj">
+      <Project>{3E800ECB-AD6F-43DD-80FF-DFEF558EFA8A}</Project>
+      <Name>Bdd-specflow-Sample.Web</Name>
+    </ProjectReference>
     <ProjectReference Include="..\KaraMeter.DataAccess\KarmaMeter.DataAccess.csproj">
       <Project>{F1BF8F4E-8387-4C83-A569-774BB86BA815}</Project>
       <Name>KarmaMeter.DataAccess</Name>

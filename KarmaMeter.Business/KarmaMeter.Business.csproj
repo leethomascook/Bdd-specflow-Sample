@@ -41,6 +41,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Contracts\IRatingRepository.cs" />
+    <Compile Include="Contracts\IRatingService.cs" />
     <Compile Include="Contracts\IUserRepository.cs" />
     <Compile Include="Domain\Action.cs" />
     <Compile Include="Domain\Rating.cs" />

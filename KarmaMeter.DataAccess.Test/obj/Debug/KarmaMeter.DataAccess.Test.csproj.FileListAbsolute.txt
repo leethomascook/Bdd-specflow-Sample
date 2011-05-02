@@ -28,3 +28,5 @@ C:\Projects\Bdd-specflow-Sample\KarmaMeter.DataAccess.Test\bin\Debug\KarmaMeter.
 C:\Projects\Bdd-specflow-Sample\KarmaMeter.DataAccess.Test\bin\Debug\Antlr3.Runtime.dll
 C:\Projects\Bdd-specflow-Sample\KarmaMeter.DataAccess.Test\bin\Debug\Castle.DynamicProxy2.dll
 C:\Projects\Bdd-specflow-Sample\KarmaMeter.DataAccess.Test\bin\Debug\log4net.dll
+C:\Projects\Bdd-specflow-Sample\KarmaMeter.DataAccess.Test\bin\Debug\Bdd-specflow-Sample.Web.dll
+C:\Projects\Bdd-specflow-Sample\KarmaMeter.DataAccess.Test\bin\Debug\Bdd-specflow-Sample.Web.pdb

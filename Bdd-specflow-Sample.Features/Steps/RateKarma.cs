@@ -9,10 +9,16 @@ namespace Bdd_specflow_Sample.Features.Steps
     [Binding]
     public class RateKarma
     {
+        private User user = null;
+        public RateKarma()
+        {
+
+        }
 
         [Given(@"They have not been rated by me before")]
         public void GivenTheyHaveNotBeenRatedByMeBefore()
         {
+            RatingController controller = new RatingController();
             ScenarioContext.Current.Pending();
         }
 
